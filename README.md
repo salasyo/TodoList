@@ -11,7 +11,7 @@ This project is a hands-on implementation of the concepts taught in the tutorial
 In the process of creating this project, I learned the following skills and concepts:
 
 - Creating a an app with SwiftUI with MVVM
-- Integratiing CRUD functions into an app
+- Integrating CRUD functions into an app
 - Adapt an app for iPad, landscape, and Dark Mode
 - Add an App Icon and Launch Screen
 
