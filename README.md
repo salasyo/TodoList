@@ -1,6 +1,6 @@
 # TodoList
 
-This is a TodoList project I made following created as part of the SwiftUI TodoList Series by Nick Sarno, also known as [SwiftfulThinking](https://www.youtube.com/c/SwiftfulThinking) on YouTube.
+This is a TodoList App project I created as part of the SwiftUI TodoList Series by SwiftfulThinking on YouTube.
 
 ## Project
 
